@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+### I'm Monis Tahir. 
+### A Software Engineer and IT Consultant.
+### My interests include Software, Hardware and Manufacturing.
+
+### I'm currently working at the intersectionn of emerging tech, computers & people. I spend my time learning and implementing stuff in programming languages I have learnt, i.e, Python, Go, Rust. I'm looking forward to share some ideas of my own and possibly help contribute to open source projects.
+
 
 <!--
 **monis-t/monis-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
