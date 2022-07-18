@@ -6,6 +6,8 @@
 
 ### I'm currently working at the intersectionn of emerging tech, computers & people. I spend my time learning and implementing stuff in programming languages I have learnt, i.e, Python, Go, Rust. I'm looking forward to share some ideas of my own and possibly help contribute to open source projects.
 
+[Linkedin](https://www.linkedin.com/in/monis-tahir-840197213/)
+
 
 <!--
 **monis-t/monis-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
