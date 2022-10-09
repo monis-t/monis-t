@@ -1,14 +1,3 @@
-## Hi there 👋
-
-### I'm Monis Tahir. 
-A Softwar Developer working on systems programming and blockchains using Rust and C++.
-My interests include Product design and manufacturing, Human Machine/Computer Interactions and the impacts of modern day devices and applications on the human mind.
-
-I'm also working on an initiative that will work towards forming a better relationship between humans and their devices.
-
-[Linkedin](https://www.linkedin.com/in/monis-tahir-840197213/)
-
-
 <!--
 **monis-t/monis-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
